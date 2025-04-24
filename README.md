@@ -7,7 +7,7 @@
   - All information but condensed
 - Additional helpful comments
 
-Atention: This makes for a pritty long config, you
+Atention: This makes for a pritty long config
 
 ## Contribution
 Feel free to make Pull requests.
